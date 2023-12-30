@@ -1,0 +1,11 @@
+# Set line endings for various file types
+*.js text eol=lf
+*.ts text eol=lf
+*.tsx text eol=lf
+*.md text eol=lf
+*.html text eol=lf
+*.json text eol=lf
+*.scss text eol=lf
+.gitignore text eol=lf
+*.prettierrc.json text eol=lf
+*.husky/pre-commit text eol=lf
